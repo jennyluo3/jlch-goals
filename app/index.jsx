@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>
-        J L C H  N G O A L S
+        J L C H  G O A L S
       </Text>
       <Link style={styles.link} href="/goals">
         View Your Goals
@@ -36,3 +36,5 @@ const styles = StyleSheet.create({
 })
 
 export default Home
+
+//
